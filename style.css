@@ -8,7 +8,7 @@
 .background{
 
     margin: 30px auto;
-    background-color: lightgray;
+    background-color: white;
 
   
 }
@@ -25,10 +25,11 @@ body{
     list-style: none;
 }
 
-header{
-    border-bottom: 2px solid black;
-}
 
+hr {
+    width: 100%;
+    border-bottom: 4px solid black;
+}
 
 #headshot {
     max-width: 125px;
@@ -36,12 +37,12 @@ header{
     
 }
 
-
-
+header {
+    margin: 20px;
+}
 
 main{
     margin:30px;
-    border-bottom: 2px solid black;
 }
 main a{
     color: black;
